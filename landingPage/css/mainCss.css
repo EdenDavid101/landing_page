@@ -1,0 +1,99 @@
+body{
+    background-color:#FFE6E2 ;
+
+}
+header{
+    width: 100%;
+    height: 25hv;
+}
+
+.namelogo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 25vh;
+
+}
+.liroymodel{
+    width: 100%;
+    height: 30hv;
+}
+.details{
+    position: relative;
+    text-align: center;
+
+
+}
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    direction: rtl;
+    font-size: 0.5em;
+    color:black;
+}
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    direction: rtl;
+    font-size: 0.5em;
+}
+input{
+    font-size:0.4em;
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
+input[type=text]:focus {
+    background-color: lightblue;
+}
+#button {  
+    background-color: brown; /* blue */
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+.liammodel{
+    border-radius: 50%;
+    display: inline-block;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+.smallscreen{
+    display: none;
+}
+.mfckidz{
+    width: 100%;
+    direction: rtl;
+    text-align: center;
+    font-size:0.5em;
+}
+.container{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.thankyou p{
+    color:black;
+    font-size: 2em;
+    font-family: arial;
+    text-align: center;
+    direction: rtl;
+}
+footer{color:red;}

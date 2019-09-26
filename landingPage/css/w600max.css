@@ -1,0 +1,101 @@
+@media only screen and (max-width: 600px) {
+
+
+.namelogo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 25vh;
+
+}
+
+.details{
+    position: relative;
+    text-align: center;
+
+
+}
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    direction: rtl;
+    
+   
+    
+}
+p{
+  font-size: 1em; 
+   color:black;
+}
+.midphototext{
+    font-size: 1.3em;
+}
+.bottom-right {
+    
+    display: none;
+
+}
+input{
+    font-size:0.7em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
+input[type=text]:focus {
+    background-color: lightblue;
+}
+#button {  
+    background-color: brown; /* blue */
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+.liammodel{
+    
+    height: 11vh;
+     border-radius: 50%;
+  display: inline-block;
+}
+.bottom-left {
+  position: absolute;
+  bottom: 5px;
+  left: 10px;
+}
+#sideimage1{width: 80px;;height: 80px;}
+
+#sideimage3{width: 80px;;height: 90px;}
+footer{
+    text-align: center;
+    font-size:0.8em;
+    
+}
+.smallscreen{
+    display: inline-block;
+    text-align: ceneter;
+    direction: rtl;
+    font-size: 0.8em;
+    
+}
+.mfckidz{
+    width: 100%;
+   direction: rtl;
+   text-align: center;
+   font-size:1em;
+} 
+.thankyou p{font-size:0.9em;}
+}
+  
+
+
